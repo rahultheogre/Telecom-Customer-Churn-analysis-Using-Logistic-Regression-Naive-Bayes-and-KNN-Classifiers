@@ -1,0 +1,6 @@
+[connection_details]
+host = 127.0.0.1
+database = telecom_churn
+user = root
+password = 2!8!uccJWeSg!wU
+port  = 3306
